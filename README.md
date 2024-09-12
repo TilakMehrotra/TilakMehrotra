@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **TilakMehrotra/TilakMehrotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +21,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tilakmehrotra&label=Profile%20views&color=0e75b6&style=flat" alt="tilakmehrotra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tilakmehrotra" alt="tilakmehrotra" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
