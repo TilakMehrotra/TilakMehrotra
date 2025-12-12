@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **AZ-104, Data Structures and Algorithms**
 
-- 💬 Ask me about **C++, Ethics of AI**
+- 💬 Ask me about **Python, Azure Cloud Services, Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
